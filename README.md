@@ -48,5 +48,5 @@ This **Ionic Food Delivery App** is designed to deliver a smooth user experience
 ### **Steps to Run the App**  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/ionic-food-app.git
-   cd ionic-food-app
+   git clone https://github.com/shabeelashraf5/chuuNow-FoodApp.git
+   
